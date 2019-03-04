@@ -1,0 +1,54 @@
+disease,best_model,training_accuracy,pred_accuracy
+Acquired Immune Deficiency Syndrome,knn,0.916666667,0.666666667
+Acute Flaccid Paralysis,svm,1,1
+Amebiasis,knn,0.916666667,0.333333333
+Botulism,svm,1,1
+Campylobacteriosis,nnet,0.666666667,0.666666667
+Chlamydia,glm,0.75,0.666666667
+Clostridium difficile,glm,0.666666667,0.666666667
+Creutzfeldt-Jakob Disease - Classic,knn,0.75,0.333333333
+Cryptosporidiosis,knn,0.611111111,0.666666667
+Cyclosporiasis,nnet,0.833333333,0.333333333
+Encephalitis - Viral,knn,0.694444444,0.666666667
+Giardiasis,glm,0.638888889,0
+Gonorrhea,rf,0.805555556,0.666666667
+Group A Streptococcal Disease Invasive,rf,0.777777778,0.666666667
+Group A Streptococcal Disease Invasive -> Severe,svm,0.833333333,0.333333333
+Group A Streptococcal Disease Invasive -> non-Severe,nnet,0.833333333,0.666666667
+Group B Streptococcal Disease of the Newborn,rf,0.5,0.333333333
+Haemophilus influenzae Type b Invasive Disease,knn,0.75,0.333333333
+Hepatitis A,nnet,0.916666667,0.666666667
+Hepatitis B - Acute,nnet,0.75,0
+Hepatitis B - Chronic,nnet,0.722222222,0.666666667
+Hepatitis B - Chronic or Unspecified,rf,0.777777778,0.666666667
+Hepatitis C,knn,0.583333333,0.333333333
+Hepatitis E,svm,1,1
+Human Immunodeficiency Virus,nnet,0.916666667,0.666666667
+Legionellosis,rf,0.805555556,0.666666667
+Listeriosis - Invasive,glm,0.777777778,0.666666667
+Lyme Disease - Confirmed,knn,0.694444444,0.666666667
+Lyme Disease - Probable,rf,0.916666667,1
+Lymphogranuloma Venereum,knn,0.833333333,1
+Malaria,nnet,1,0.333333333
+Meningitis - Bacterial,rf,0.722222222,0.333333333
+Meningitis - Viral,rf,0.666666667,0.333333333
+Meningococcal Disease Invasive,rf,0.666666667,0
+Methicillin Resistant Staphylococcus Aureus,nnet,0.777777778,0.666666667
+Mumps,svm,1,1
+Pertussis,nnet,0.722222222,0.333333333
+Pneumococcal Disease Invasive,glm,0.75,0.666666667
+Q-Fever,rf,0.777777778,0.666666667
+Rubella,svm,1,1
+Salmonellosis,knn,0.75,0.333333333
+Shellfish Poisoning,svm,1,1
+Shigellosis,glm,1,0.333333333
+Syphilis - Infectious,knn,0.611111111,0.666666667
+Syphilis - Non-Infectious or Stage Pending,nnet,0.805555556,0.666666667
+Tetanus,svm,1,1
+Toxoplasmosis,nnet,0.694444444,0.666666667
+Tuberculosis,nnet,0.833333333,0.666666667
+Typhoid,nnet,0.75,0.333333333
+Vancomycin Resistant Enterococcus,nnet,0.75,0.333333333
+Verotoxigenic E.coli,svm,0.916666667,0.333333333
+West Nile Virus,rf,0.777777778,0.666666667
+Yersiniosis,glm,0.916666667,0.666666667
