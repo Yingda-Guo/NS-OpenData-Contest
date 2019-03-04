@@ -4,9 +4,11 @@ We linked the Nova Scotia Open Datasets for Disease Prevalence over time (2005-2
 
 ## DataSets
 Notifiable Diseases Counts and Rates 2005-2017 
+
 https://data.novascotia.ca/Health-and-Wellness/Notifiable-Diseases-Counts-and-Rates-2005-2017/mdfn-jkdg
 
 Nova Scotia Monthly Climate Summaries from 2005 to 2017
+
 http://climate.weather.gc.ca/prods_servs/cdn_climate_summary_e.html
 
 ## Description of the processes and algorithms 
