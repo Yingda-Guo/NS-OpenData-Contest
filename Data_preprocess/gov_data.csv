@@ -1,0 +1,690 @@
+Year,Disease,Number
+2005,Acquired Immune Deficiency Syndrome,5
+2006,Acquired Immune Deficiency Syndrome,13
+2007,Acquired Immune Deficiency Syndrome,5
+2008,Acquired Immune Deficiency Syndrome,6
+2009,Acquired Immune Deficiency Syndrome,2
+2010,Acquired Immune Deficiency Syndrome,5
+2011,Acquired Immune Deficiency Syndrome,4
+2012,Acquired Immune Deficiency Syndrome,2
+2013,Acquired Immune Deficiency Syndrome,0
+2014,Acquired Immune Deficiency Syndrome,2
+2005,Hepatitis B - Acute,10
+2006,Hepatitis B - Acute,8
+2007,Hepatitis B - Acute,9
+2008,Hepatitis B - Acute,7
+2009,Hepatitis B - Acute,5
+2010,Hepatitis B - Acute,3
+2011,Hepatitis B - Acute,4
+2012,Hepatitis B - Acute,1
+2013,Hepatitis B - Acute,2
+2014,Hepatitis B - Acute,4
+2005,Hepatitis B - Chronic,0
+2006,Hepatitis B - Chronic,0
+2007,Hepatitis B - Chronic,0
+2008,Hepatitis B - Chronic,0
+2009,Hepatitis B - Chronic,16
+2010,Hepatitis B - Chronic,15
+2011,Hepatitis B - Chronic,11
+2012,Hepatitis B - Chronic,9
+2013,Hepatitis B - Chronic,13
+2014,Hepatitis B - Chronic,20
+2005,Hepatitis B - Chronic or Unspecified,22
+2006,Hepatitis B - Chronic or Unspecified,36
+2007,Hepatitis B - Chronic or Unspecified,10
+2008,Hepatitis B - Chronic or Unspecified,14
+2009,Hepatitis B - Chronic or Unspecified,0
+2010,Hepatitis B - Chronic or Unspecified,0
+2011,Hepatitis B - Chronic or Unspecified,0
+2012,Hepatitis B - Chronic or Unspecified,0
+2013,Hepatitis B - Chronic or Unspecified,0
+2014,Hepatitis B - Chronic or Unspecified,0
+2005,Hepatitis C,250
+2006,Hepatitis C,252
+2007,Hepatitis C,224
+2008,Hepatitis C,281
+2009,Hepatitis C,266
+2010,Hepatitis C,299
+2011,Hepatitis C,209
+2012,Hepatitis C,250
+2013,Hepatitis C,288
+2014,Hepatitis C,323
+2005,Human Immunodeficiency Virus,21
+2006,Human Immunodeficiency Virus,23
+2007,Human Immunodeficiency Virus,20
+2008,Human Immunodeficiency Virus,21
+2009,Human Immunodeficiency Virus,13
+2010,Human Immunodeficiency Virus,15
+2011,Human Immunodeficiency Virus,15
+2012,Human Immunodeficiency Virus,17
+2013,Human Immunodeficiency Virus,16
+2014,Human Immunodeficiency Virus,10
+2005,Clostridium difficile,0
+2006,Clostridium difficile,0
+2007,Clostridium difficile,0
+2008,Clostridium difficile,0
+2009,Clostridium difficile,0
+2010,Clostridium difficile,0
+2011,Clostridium difficile,0
+2012,Clostridium difficile,501
+2013,Clostridium difficile,677
+2014,Clostridium difficile,609
+2005,Creutzfeldt-Jakob Disease - Classic,1
+2006,Creutzfeldt-Jakob Disease - Classic,2
+2007,Creutzfeldt-Jakob Disease - Classic,2
+2008,Creutzfeldt-Jakob Disease - Classic,2
+2009,Creutzfeldt-Jakob Disease - Classic,1
+2010,Creutzfeldt-Jakob Disease - Classic,0
+2011,Creutzfeldt-Jakob Disease - Classic,2
+2005,Meningitis - Bacterial,4
+2012,Creutzfeldt-Jakob Disease - Classic,3
+2013,Creutzfeldt-Jakob Disease - Classic,1
+2014,Creutzfeldt-Jakob Disease - Classic,2
+2005,Group A Streptococcal Disease Invasive,26
+2006,Group A Streptococcal Disease Invasive,16
+2007,Group A Streptococcal Disease Invasive,25
+2008,Group A Streptococcal Disease Invasive,16
+2009,Group A Streptococcal Disease Invasive,0
+2010,Group A Streptococcal Disease Invasive,0
+2011,Group A Streptococcal Disease Invasive,0
+2012,Group A Streptococcal Disease Invasive,0
+2013,Group A Streptococcal Disease Invasive,0
+2014,Group A Streptococcal Disease Invasive,0
+2005,Group A Streptococcal Disease Invasive -> Severe,0
+2006,Group A Streptococcal Disease Invasive -> Severe,0
+2007,Group A Streptococcal Disease Invasive -> Severe,0
+2008,Group A Streptococcal Disease Invasive -> Severe,0
+2009,Group A Streptococcal Disease Invasive -> Severe,9
+2010,Group A Streptococcal Disease Invasive -> Severe,3
+2011,Group A Streptococcal Disease Invasive -> Severe,13
+2012,Group A Streptococcal Disease Invasive -> Severe,11
+2013,Group A Streptococcal Disease Invasive -> Severe,6
+2014,Group A Streptococcal Disease Invasive -> Severe,8
+2005,Group A Streptococcal Disease Invasive -> non-Severe,0
+2006,Group A Streptococcal Disease Invasive -> non-Severe,0
+2007,Group A Streptococcal Disease Invasive -> non-Severe,0
+2008,Group A Streptococcal Disease Invasive -> non-Severe,0
+2009,Group A Streptococcal Disease Invasive -> non-Severe,7
+2010,Group A Streptococcal Disease Invasive -> non-Severe,12
+2011,Group A Streptococcal Disease Invasive -> non-Severe,11
+2012,Group A Streptococcal Disease Invasive -> non-Severe,13
+2013,Group A Streptococcal Disease Invasive -> non-Severe,15
+2014,Group A Streptococcal Disease Invasive -> non-Severe,14
+2005,Group B Streptococcal Disease of the Newborn,0
+2006,Group B Streptococcal Disease of the Newborn,0
+2007,Group B Streptococcal Disease of the Newborn,1
+2008,Group B Streptococcal Disease of the Newborn,2
+2009,Group B Streptococcal Disease of the Newborn,2
+2010,Group B Streptococcal Disease of the Newborn,6
+2011,Group B Streptococcal Disease of the Newborn,3
+2012,Group B Streptococcal Disease of the Newborn,1
+2013,Group B Streptococcal Disease of the Newborn,3
+2014,Group B Streptococcal Disease of the Newborn,1
+2005,Legionellosis,2
+2006,Legionellosis,1
+2007,Legionellosis,0
+2008,Legionellosis,0
+2009,Legionellosis,2
+2010,Legionellosis,1
+2011,Legionellosis,0
+2012,Legionellosis,0
+2013,Legionellosis,2
+2014,Legionellosis,3
+2006,Meningitis - Bacterial,2
+2007,Meningitis - Bacterial,4
+2008,Meningitis - Bacterial,5
+2009,Meningitis - Bacterial,2
+2010,Meningitis - Bacterial,2
+2011,Meningitis - Bacterial,2
+2012,Meningitis - Bacterial,0
+2013,Meningitis - Bacterial,0
+2014,Meningitis - Bacterial,2
+2005,Meningococcal Disease Invasive,2
+2006,Meningococcal Disease Invasive,4
+2007,Meningococcal Disease Invasive,4
+2008,Meningococcal Disease Invasive,8
+2009,Meningococcal Disease Invasive,4
+2010,Meningococcal Disease Invasive,3
+2011,Meningococcal Disease Invasive,3
+2012,Meningococcal Disease Invasive,3
+2013,Meningococcal Disease Invasive,0
+2014,Meningococcal Disease Invasive,3
+2005,Methicillin Resistant Staphylococcus Aureus,759
+2006,Methicillin Resistant Staphylococcus Aureus,849
+2007,Methicillin Resistant Staphylococcus Aureus,951
+2008,Methicillin Resistant Staphylococcus Aureus,1013
+2009,Methicillin Resistant Staphylococcus Aureus,888
+2010,Methicillin Resistant Staphylococcus Aureus,917
+2011,Methicillin Resistant Staphylococcus Aureus,840
+2012,Methicillin Resistant Staphylococcus Aureus,838
+2013,Methicillin Resistant Staphylococcus Aureus,791
+2014,Methicillin Resistant Staphylococcus Aureus,644
+2005,Pneumococcal Disease Invasive,27
+2006,Pneumococcal Disease Invasive,22
+2007,Pneumococcal Disease Invasive,26
+2008,Pneumococcal Disease Invasive,14
+2009,Pneumococcal Disease Invasive,20
+2010,Pneumococcal Disease Invasive,35
+2011,Pneumococcal Disease Invasive,51
+2012,Pneumococcal Disease Invasive,51
+2013,Pneumococcal Disease Invasive,65
+2014,Pneumococcal Disease Invasive,66
+2005,Tuberculosis,6
+2006,Tuberculosis,10
+2007,Tuberculosis,8
+2008,Tuberculosis,4
+2009,Tuberculosis,7
+2010,Tuberculosis,10
+2011,Tuberculosis,9
+2012,Tuberculosis,8
+2013,Tuberculosis,8
+2014,Tuberculosis,7
+2005,Vancomycin Resistant Enterococcus,35
+2006,Vancomycin Resistant Enterococcus,38
+2007,Vancomycin Resistant Enterococcus,7
+2008,Vancomycin Resistant Enterococcus,31
+2009,Vancomycin Resistant Enterococcus,10
+2010,Vancomycin Resistant Enterococcus,8
+2011,Vancomycin Resistant Enterococcus,18
+2012,Vancomycin Resistant Enterococcus,49
+2013,Vancomycin Resistant Enterococcus,43
+2014,Vancomycin Resistant Enterococcus,17
+2005,Botulism,0
+2006,Botulism,0
+2007,Botulism,0
+2008,Botulism,0
+2009,Botulism,0
+2010,Botulism,0
+2011,Botulism,1
+2012,Botulism,0
+2013,Botulism,0
+2014,Botulism,0
+2005,Campylobacteriosis,125
+2006,Campylobacteriosis,132
+2007,Campylobacteriosis,133
+2008,Campylobacteriosis,159
+2009,Campylobacteriosis,123
+2010,Campylobacteriosis,151
+2011,Campylobacteriosis,185
+2012,Campylobacteriosis,188
+2013,Campylobacteriosis,172
+2014,Campylobacteriosis,180
+2005,Cryptosporidiosis,18
+2006,Cryptosporidiosis,9
+2007,Cryptosporidiosis,13
+2008,Cryptosporidiosis,11
+2009,Cryptosporidiosis,10
+2010,Cryptosporidiosis,21
+2011,Cryptosporidiosis,12
+2012,Cryptosporidiosis,18
+2013,Cryptosporidiosis,22
+2014,Cryptosporidiosis,32
+2005,Cyclosporiasis,0
+2006,Cyclosporiasis,3
+2007,Cyclosporiasis,3
+2008,Cyclosporiasis,0
+2009,Cyclosporiasis,1
+2010,Cyclosporiasis,2
+2011,Cyclosporiasis,0
+2012,Cyclosporiasis,0
+2013,Cyclosporiasis,3
+2014,Cyclosporiasis,1
+2005,Giardiasis,108
+2006,Giardiasis,106
+2007,Giardiasis,74
+2008,Giardiasis,107
+2009,Giardiasis,76
+2010,Giardiasis,68
+2011,Giardiasis,66
+2012,Giardiasis,96
+2013,Giardiasis,96
+2014,Giardiasis,90
+2005,Hepatitis A,5
+2006,Hepatitis A,18
+2007,Hepatitis A,5
+2008,Hepatitis A,4
+2009,Hepatitis A,2
+2010,Hepatitis A,3
+2011,Hepatitis A,4
+2012,Hepatitis A,2
+2013,Hepatitis A,2
+2014,Hepatitis A,3
+2005,Listeriosis - Invasive,5
+2006,Listeriosis - Invasive,4
+2007,Listeriosis - Invasive,6
+2008,Listeriosis - Invasive,2
+2009,Listeriosis - Invasive,3
+2010,Listeriosis - Invasive,9
+2011,Listeriosis - Invasive,6
+2012,Listeriosis - Invasive,4
+2013,Listeriosis - Invasive,8
+2014,Listeriosis - Invasive,5
+2005,Salmonellosis,123
+2006,Salmonellosis,108
+2007,Salmonellosis,121
+2008,Salmonellosis,137
+2009,Salmonellosis,94
+2010,Salmonellosis,145
+2011,Salmonellosis,170
+2012,Salmonellosis,150
+2013,Salmonellosis,169
+2014,Salmonellosis,204
+2005,Shellfish Poisoning,1
+2006,Shellfish Poisoning,0
+2007,Shellfish Poisoning,0
+2008,Shellfish Poisoning,0
+2009,Shellfish Poisoning,0
+2010,Shellfish Poisoning,0
+2011,Shellfish Poisoning,0
+2012,Shellfish Poisoning,0
+2013,Shellfish Poisoning,0
+2014,Shellfish Poisoning,0
+2005,Shigellosis,19
+2006,Shigellosis,6
+2007,Shigellosis,6
+2008,Shigellosis,4
+2009,Shigellosis,11
+2010,Shigellosis,11
+2011,Shigellosis,13
+2012,Shigellosis,11
+2013,Shigellosis,1
+2014,Shigellosis,9
+2005,Typhoid,0
+2006,Typhoid,0
+2007,Typhoid,0
+2008,Typhoid,3
+2009,Typhoid,0
+2010,Typhoid,3
+2011,Typhoid,1
+2012,Typhoid,0
+2013,Typhoid,1
+2014,Typhoid,2
+2005,Verotoxigenic E.coli,14
+2006,Verotoxigenic E.coli,21
+2007,Verotoxigenic E.coli,15
+2008,Verotoxigenic E.coli,10
+2009,Verotoxigenic E.coli,5
+2010,Verotoxigenic E.coli,14
+2011,Verotoxigenic E.coli,18
+2012,Verotoxigenic E.coli,18
+2013,Verotoxigenic E.coli,11
+2014,Verotoxigenic E.coli,10
+2005,Chlamydia,1745
+2006,Chlamydia,1762
+2007,Chlamydia,1788
+2008,Chlamydia,2033
+2009,Chlamydia,1982
+2010,Chlamydia,2230
+2011,Chlamydia,2478
+2012,Chlamydia,2614
+2013,Chlamydia,2466
+2014,Chlamydia,2628
+2005,Gonorrhea,104
+2006,Gonorrhea,99
+2007,Gonorrhea,72
+2008,Gonorrhea,143
+2009,Gonorrhea,127
+2010,Gonorrhea,100
+2011,Gonorrhea,102
+2012,Gonorrhea,119
+2013,Gonorrhea,97
+2014,Gonorrhea,113
+2005,Syphilis - Infectious,5
+2006,Syphilis - Infectious,2
+2007,Syphilis - Infectious,3
+2008,Syphilis - Infectious,4
+2009,Syphilis - Infectious,22
+2010,Syphilis - Infectious,20
+2011,Syphilis - Infectious,36
+2012,Syphilis - Infectious,68
+2013,Syphilis - Infectious,84
+2014,Syphilis - Infectious,63
+2005,Syphilis - Non-Infectious or Stage Pending,10
+2006,Syphilis - Non-Infectious or Stage Pending,6
+2007,Syphilis - Non-Infectious or Stage Pending,6
+2008,Syphilis - Non-Infectious or Stage Pending,8
+2009,Syphilis - Non-Infectious or Stage Pending,2
+2010,Syphilis - Non-Infectious or Stage Pending,8
+2011,Syphilis - Non-Infectious or Stage Pending,13
+2012,Syphilis - Non-Infectious or Stage Pending,10
+2013,Syphilis - Non-Infectious or Stage Pending,23
+2014,Syphilis - Non-Infectious or Stage Pending,37
+2005,Acute Flaccid Paralysis,0
+2006,Acute Flaccid Paralysis,0
+2007,Acute Flaccid Paralysis,0
+2008,Acute Flaccid Paralysis,0
+2009,Acute Flaccid Paralysis,0
+2010,Acute Flaccid Paralysis,0
+2011,Acute Flaccid Paralysis,0
+2012,Acute Flaccid Paralysis,0
+2013,Acute Flaccid Paralysis,0
+2014,Acute Flaccid Paralysis,1
+2005,Haemophilus influenzae Type b Invasive Disease,1
+2006,Haemophilus influenzae Type b Invasive Disease,0
+2007,Haemophilus influenzae Type b Invasive Disease,0
+2008,Haemophilus influenzae Type b Invasive Disease,1
+2009,Haemophilus influenzae Type b Invasive Disease,0
+2010,Haemophilus influenzae Type b Invasive Disease,1
+2011,Haemophilus influenzae Type b Invasive Disease,1
+2012,Haemophilus influenzae Type b Invasive Disease,1
+2013,Haemophilus influenzae Type b Invasive Disease,1
+2014,Haemophilus influenzae Type b Invasive Disease,0
+2005,Mumps,30
+2006,Mumps,6
+2007,Mumps,595
+2008,Mumps,5
+2009,Mumps,1
+2010,Mumps,1
+2011,Mumps,0
+2012,Mumps,0
+2013,Mumps,2
+2014,Mumps,1
+2005,Pertussis,25
+2006,Pertussis,48
+2007,Pertussis,33
+2008,Pertussis,14
+2009,Pertussis,18
+2010,Pertussis,6
+2011,Pertussis,3
+2012,Pertussis,22
+2013,Pertussis,4
+2014,Pertussis,11
+2005,Rubella,0
+2006,Rubella,1
+2007,Rubella,0
+2008,Rubella,0
+2009,Rubella,0
+2010,Rubella,0
+2011,Rubella,0
+2012,Rubella,0
+2013,Rubella,0
+2014,Rubella,0
+2005,Tetanus,0
+2006,Tetanus,0
+2007,Tetanus,0
+2008,Tetanus,0
+2009,Tetanus,0
+2010,Tetanus,0
+2011,Tetanus,0
+2012,Tetanus,1
+2013,Tetanus,0
+2014,Tetanus,0
+2005,Lyme Disease - Confirmed,2
+2006,Lyme Disease - Confirmed,4
+2007,Lyme Disease - Confirmed,6
+2008,Lyme Disease - Confirmed,9
+2009,Lyme Disease - Confirmed,12
+2010,Lyme Disease - Confirmed,13
+2011,Lyme Disease - Confirmed,35
+2012,Lyme Disease - Confirmed,35
+2013,Lyme Disease - Confirmed,121
+2014,Lyme Disease - Confirmed,68
+2005,Lyme Disease - Probable,0
+2006,Lyme Disease - Probable,0
+2007,Lyme Disease - Probable,0
+2008,Lyme Disease - Probable,4
+2009,Lyme Disease - Probable,5
+2010,Lyme Disease - Probable,4
+2011,Lyme Disease - Probable,22
+2012,Lyme Disease - Probable,17
+2013,Lyme Disease - Probable,35
+2014,Lyme Disease - Probable,47
+2005,Malaria,3
+2006,Malaria,2
+2007,Malaria,4
+2008,Malaria,2
+2009,Malaria,2
+2010,Malaria,5
+2011,Malaria,0
+2012,Malaria,3
+2013,Malaria,3
+2014,Malaria,3
+2005,West Nile Virus,1
+2006,West Nile Virus,0
+2007,West Nile Virus,1
+2008,West Nile Virus,1
+2009,West Nile Virus,0
+2010,West Nile Virus,0
+2011,West Nile Virus,0
+2012,West Nile Virus,0
+2013,West Nile Virus,0
+2014,West Nile Virus,0
+2015,Lyme Disease - Confirmed,119
+2016,Pneumococcal Disease Invasive,66
+2016,West Nile Virus,0
+2015,Shigellosis,5
+2016,Legionellosis,1
+2015,Hepatitis B - Acute,9
+2015,Malaria,4
+2015,Botulism,0
+2016,Rubella,0
+2015,Salmonellosis,168
+2016,Mumps,1
+2016,Gonorrhea,202
+2016,Haemophilus influenzae Type b Invasive Disease,0
+2016,Malaria,6
+2016,Cyclosporiasis,2
+2016,Acute Flaccid Paralysis,0
+2015,Pertussis,110
+2015,Typhoid,0
+2016,Giardiasis,100
+2016,Shigellosis,10
+2015,West Nile Virus,0
+2015,Acquired Immune Deficiency Syndrome,3
+2015,Mumps,6
+2016,Listeriosis - Invasive,4
+2015,Syphilis - Infectious,42
+2015,Hepatitis B - Chronic or Unspecified,0
+2016,Meningitis - Bacterial,0
+2016,Group A Streptococcal Disease Invasive -> Severe,7
+2015,Legionellosis,7
+2015,Clostridium difficile,796
+2016,Meningococcal Disease Invasive,4
+2015,Pneumococcal Disease Invasive,50
+2016,Syphilis - Infectious,18
+2016,Methicillin Resistant Staphylococcus Aureus,570
+2016,Lyme Disease - Confirmed,165
+2016,Campylobacteriosis,170
+2015,Group A Streptococcal Disease Invasive -> non-Severe,15
+2015,Rubella,0
+2015,Group B Streptococcal Disease of the Newborn,3
+2016,Cryptosporidiosis,27
+2016,Hepatitis B - Acute,10
+2015,Haemophilus influenzae Type b Invasive Disease,0
+2016,Vancomycin Resistant Enterococcus,13
+2016,Tuberculosis,2
+2015,Hepatitis C,341
+2016,Typhoid,1
+2015,Listeriosis - Invasive,8
+2016,Syphilis - Non-Infectious or Stage Pending,17
+2015,Chlamydia,2821
+2016,Hepatitis C,299
+2016,Creutzfeldt-Jakob Disease - Classic,1
+2015,Meningitis - Bacterial,0
+2015,Lyme Disease - Probable,128
+2015,Tetanus,0
+2015,Acute Flaccid Paralysis,0
+2016,Lyme Disease - Probable,161
+2016,Chlamydia,2931
+2016,Botulism,0
+2015,Group A Streptococcal Disease Invasive,0
+2016,Salmonellosis,139
+2015,Group A Streptococcal Disease Invasive -> Severe,9
+2015,Cryptosporidiosis,17
+2016,Acquired Immune Deficiency Syndrome,1
+2015,Giardiasis,83
+2016,Pertussis,63
+2015,Shellfish Poisoning,0
+2015,Cyclosporiasis,3
+2015,Creutzfeldt-Jakob Disease - Classic,0
+2016,Shellfish Poisoning,0
+2015,Campylobacteriosis,155
+2015,Syphilis - Non-Infectious or Stage Pending,27
+2015,Gonorrhea,129
+2016,Verotoxigenic E.coli,5
+2015,Methicillin Resistant Staphylococcus Aureus,620
+2016,Group A Streptococcal Disease Invasive -> non-Severe,12
+2016,Hepatitis B - Chronic or Unspecified,0
+2015,Hepatitis B - Chronic,10
+2016,Hepatitis B - Chronic,13
+2015,Verotoxigenic E.coli,5
+2015,Human Immunodeficiency Virus,17
+2015,Vancomycin Resistant Enterococcus,4
+2015,Tuberculosis,6
+2016,Group B Streptococcal Disease of the Newborn,3
+2016,Clostridium difficile,874
+2015,Meningococcal Disease Invasive,7
+2015,Hepatitis A,1
+2016,Tetanus,0
+2017,Campylobacteriosis,185
+2016,Amebiasis,0
+2008,Amebiasis,9
+2016,Group A Streptococcal Disease Invasive,0
+2005,Meningitis - Viral,6
+2017,Shigellosis,10
+2013,Toxoplasmosis,1
+2017,Gonorrhea,233
+2017,Shellfish Poisoning,0
+2017,Meningococcal Disease Invasive,6
+2006,Yersiniosis,4
+2017,West Nile Virus,0
+2009,Amebiasis,1
+2015,Toxoplasmosis,1
+2011,Lymphogranuloma Venereum,0
+2017,Hepatitis C,295
+2006,Lymphogranuloma Venereum,1
+2011,Toxoplasmosis,2
+2017,Amebiasis,0
+2007,Encephalitis - Viral,2
+2013,Amebiasis,3
+2017,Pneumococcal Disease Invasive,49
+2016,Hepatitis A,11
+2013,Q-Fever,0
+2006,Q-Fever,3
+2017,Cryptosporidiosis,41
+2012,Amebiasis,4
+2017,Tuberculosis,8
+2009,Yersiniosis,2
+2014,Meningitis - Viral,15
+2013,Yersiniosis,3
+2008,Toxoplasmosis,3
+2017,Pertussis,45
+2008,Meningitis - Viral,3
+2015,Q-Fever,3
+2006,Toxoplasmosis,2
+2012,Q-Fever,0
+2013,Encephalitis - Viral,0
+2017,Q-Fever,0
+2015,Meningitis - Viral,17
+2010,Encephalitis - Viral,1
+2005,Toxoplasmosis,0
+2017,Malaria,3
+2014,Toxoplasmosis,3
+2010,Hepatitis E,0
+2011,Meningitis - Viral,11
+2017,Group A Streptococcal Disease Invasive -> non-Severe,30
+2010,Toxoplasmosis,1
+2017,Acute Flaccid Paralysis,0
+2014,Yersiniosis,2
+2008,Hepatitis E,1
+2010,Q-Fever,3
+2017,Group A Streptococcal Disease Invasive -> Severe,16
+2017,Encephalitis - Viral,0
+2007,Hepatitis E,0
+2009,Hepatitis E,0
+2017,Cyclosporiasis,2
+2016,Meningitis - Viral,2
+2011,Hepatitis E,0
+2017,Meningitis - Viral,0
+2016,Hepatitis E,0
+2012,Meningitis - Viral,39
+2007,Toxoplasmosis,1
+2014,Encephalitis - Viral,1
+2010,Meningitis - Viral,2
+2017,Lyme Disease - Confirmed,307
+2017,Meningitis - Bacterial,1
+2017,Legionellosis,9
+2010,Amebiasis,7
+2006,Hepatitis E,0
+2017,Hepatitis B - Chronic,18
+2009,Lymphogranuloma Venereum,0
+2006,Meningitis - Viral,6
+2012,Toxoplasmosis,0
+2006,Encephalitis - Viral,0
+2008,Q-Fever,17
+2014,Q-Fever,0
+2017,Hepatitis A,2
+2009,Q-Fever,2
+2017,Clostridium difficile,927
+2007,Amebiasis,11
+2013,Lymphogranuloma Venereum,0
+2017,Vancomycin Resistant Enterococcus,121
+2014,Hepatitis E,0
+2016,Lymphogranuloma Venereum,0
+2011,Encephalitis - Viral,2
+2017,Tetanus,0
+2009,Meningitis - Viral,6
+2017,Rubella,0
+2012,Hepatitis E,0
+2008,Lymphogranuloma Venereum,0
+2017,Creutzfeldt-Jakob Disease - Classic,1
+2012,Encephalitis - Viral,1
+2007,Q-Fever,4
+2013,Hepatitis E,0
+2015,Amebiasis,6
+2017,Hepatitis B - Acute,6
+2017,Hepatitis B - Chronic or Unspecified,0
+2014,Amebiasis,3
+2017,Chlamydia,2988
+2008,Encephalitis - Viral,1
+2017,Syphilis - Non-Infectious or Stage Pending,12
+2017,Botulism,0
+2010,Lymphogranuloma Venereum,0
+2017,Haemophilus influenzae Type b Invasive Disease,1
+2013,Meningitis - Viral,20
+2005,Encephalitis - Viral,1
+2016,Toxoplasmosis,1
+2017,Lyme Disease - Probable,279
+2005,Hepatitis E,0
+2011,Yersiniosis,1
+2017,Hepatitis E,0
+2017,Salmonellosis,171
+2017,Yersiniosis,0
+2017,Verotoxigenic E.coli,21
+2015,Lymphogranuloma Venereum,1
+2011,Q-Fever,2
+2017,Giardiasis,93
+2005,Q-Fever,5
+2008,Yersiniosis,4
+2017,Methicillin Resistant Staphylococcus Aureus,522
+2017,Mumps,21
+2005,Amebiasis,10
+2015,Hepatitis E,0
+2012,Lymphogranuloma Venereum,0
+2012,Yersiniosis,3
+2011,Amebiasis,8
+2017,Toxoplasmosis,0
+2015,Yersiniosis,2
+2005,Lymphogranuloma Venereum,0
+2017,Human Immunodeficiency Virus,15
+2006,Amebiasis,13
+2017,Lymphogranuloma Venereum,0
+2014,Lymphogranuloma Venereum,0
+2015,Encephalitis - Viral,1
+2017,Typhoid,2
+2010,Yersiniosis,3
+2016,Yersiniosis,1
+2009,Toxoplasmosis,3
+2007,Yersiniosis,5
+2009,Encephalitis - Viral,2
+2016,Q-Fever,0
+2017,Listeriosis - Invasive,4
+2007,Lymphogranuloma Venereum,0
+2017,Group A Streptococcal Disease Invasive,0
+2017,Acquired Immune Deficiency Syndrome,1
+2016,Encephalitis - Viral,0
+2005,Yersiniosis,2
+2017,Group B Streptococcal Disease of the Newborn,3
+2016,Human Immunodeficiency Virus,19
+2017,Syphilis - Infectious,26
+2007,Meningitis - Viral,14
